@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: matheushenrique
   LOCATION: eastus
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: YOUR-SUBS-ID
+  SUBSCRIPTION-ID: fb137f6a-26a7-40b6-9ccd-cbca3be1273b
   WEBAPP-NAME: eshoponweb-webapp-matheus
 
 
